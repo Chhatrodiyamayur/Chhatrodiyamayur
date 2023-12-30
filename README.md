@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=font=Poppins&weight=500&size=30&pause=1000&vCenter=true&random=false&width=350&height=30&lines=Chhatrodiya+Mayur;Web+Developer" alt="Typing SVG" align="center"/></a>
 </h1>
@@ -6,13 +5,14 @@
 <br/>
 
 <div align="center">
- 🌱 I’m currently learning **Laravel**
+ 🌱 I’m Currently Learning In *Laravel*
  
 💬 Ask me about **Laravel, Core php or anything [here](https://github.com/Chhatrodiyamayur/Chhatrodiyamayur/issues)**
 
  </div>
  
-<div align="center"> 
+<div align="center">
+  <h2 align="center">🌐 Let's Connect!</h2>
    <a href="http://mayurahir.22web.org" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank"/>
   </a>
@@ -28,12 +28,10 @@
 </div>
 
  <hr/>
-
- <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
+ <h2 align="center">⚒️# Tech Stack #</h2>
 <div align="center">
-      <img src="https://skillicons.dev/icons?i=php,laravel,javascript,jquery,mysql" /><br>
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,figma"/>
+      <img src="https://skillicons.dev/icons?i=php,laravel,html,css,javascript,jquery,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=bootstrap,figma,vscode,postman,github,"/>
 </div>
 
 <br/>
@@ -46,5 +44,14 @@
   
   <br/><br/><br/>
 </div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Chhatrodiyamayur&theme=dark&hide_border=false&include_all_commits=true&count_private=true">
+ 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chhatrodiyamayur&theme=dark&hide_border=false">
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chhatrodiyamayur&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+ 
+</p>
 
 
