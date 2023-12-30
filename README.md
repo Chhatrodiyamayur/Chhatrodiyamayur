@@ -33,7 +33,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,figma"/>
-    <img src="https://skillicons.dev/icons?i=php,laravel,javascript,jquery,ajex,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=php,laravel,javascript,jquery,mysql" /><br>
 </div>
 
 <br/>
