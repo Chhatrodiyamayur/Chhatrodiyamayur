@@ -8,7 +8,7 @@
 <div align="center">
  🌱 I’m currently learning **Laravel**
 
-💬 Ask me about **Laravel, php, Firebase... or anything [here](https://github.com/Chhatrodiyamayur/Chhatrodiyamayur/issues)**
+💬 Ask me about **Laravel,Core php or anything [here](https://github.com/Chhatrodiyamayur/Chhatrodiyamayur/issues)**
 
  </div>
 
