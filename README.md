@@ -7,7 +7,7 @@
 <br/>
 
 <div align="center">
- 🌱 I’m Currently Learning In *Laravel*
+ 🌱 I’m A *Web Developer*
  
 💬 Ask me about **Laravel, Core php, or anything [here](https://github.com/Chhatrodiyamayur/Chhatrodiyamayur/issues)**
 
