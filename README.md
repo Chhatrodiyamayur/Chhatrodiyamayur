@@ -9,7 +9,7 @@
 <div align="center">
  🌱 I’m A *Web Developer*
  
-💬 Ask me about **Laravel, Core php, or anything [here](https://github.com/Chhatrodiyamayur/Chhatrodiyamayur/issues)**
+💬 Ask me about **Laravel, Core php, or anything [here](https://github.com/Chhatrodiyamayur/Chhatrodiyamayur/issues/1)**
 
 ⚡ Fun fact **I'm Funny**
  </div>
