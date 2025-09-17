@@ -34,7 +34,9 @@
  <h2 align="center">⚒️# Languages And Tools: #</h2>
 <div align="center">
       <img src="https://skillicons.dev/icons?i=php,laravel,html,css,javascript,jquery,mysql" /><br>
-    <img src="https://skillicons.dev/icons?i=bootstrap,figma,vscode,postman,github,"/>
+      <img src="https://skillicons.dev/icons?i=bootstrap,figma,vscode,postman,github,"/>
+  <img src="path/to/shopify.svg" alt="Shopify" width="...px" height="...px">
+<img src="path/to/opencart.svg" alt="OpenCart" width="...px" height="...px">
 </div>
 
 <br/>
